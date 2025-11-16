@@ -39,5 +39,3 @@ a) Syntax only
 b) Building reasoning + evaluation skills ✅  
 c) Avoiding AI tools  
 d) Manual workflows  
-
-#
